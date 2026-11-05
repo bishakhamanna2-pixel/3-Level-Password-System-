@@ -116,7 +116,8 @@ Access Granted
        ↓
 Logout
 ```
-<img width="942" height="471" alt="Screenshot 2026-10-24 191518" src="https://github.com/user-attachments/assets/7dd361a0-bd46-4e30-b7e6-5080e03fe175" />
+<img width="634" height="235" alt="image" src="https://github.com/user-attachments/assets/65d8d999-e348-484e-a04e-77be5299f543" />
+
 
 ## 🔒 Security Purpose
 
